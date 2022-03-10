@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644368204 source:d:\new folder\highest vally\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
+1644369505 source:d:\oop lab\highest vally\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
