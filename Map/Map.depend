@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1646963933 source:d:\oop lab\map\map\main.cpp
+	<iostream>
+	<vector>
+	"map.h"
+	"menu.h"
+	"catch.hpp"
+	"map.h"
+
+1646958291 source:d:\oop lab\map\map\map.cpp
+	"map.h"
+
+1646964340 d:\oop lab\map\map\map.h
+	<string>
+	<iostream>
+	<vector>
+	"read.hpp"
+	<exception>
+
+1646957294 d:\oop lab\map\map\read.hpp
+	<iostream>
+	<string>
+
+1646964357 d:\oop lab\map\map\menu.h
+	"map.h"
+
+1646963692 source:d:\oop lab\map\map\menu.cpp
+	<iostream>
+	"menu.h"
+	"read.hpp"
+	<sstream>
+
