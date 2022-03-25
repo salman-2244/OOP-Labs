@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648209972 source:d:\oop lab\lab 6\sq\infile.cpp
+	"inFile.h"
+
+1648210504 d:\oop lab\lab 6\sq\infile.h
+	<iostream>
+	<fstream>
+
+1648210282 source:d:\oop lab\lab 6\sq\main.cpp
+	<iostream>
+	"inFile.h"
+
